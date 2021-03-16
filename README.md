@@ -32,6 +32,12 @@ npm install leaflet vue2-leaflet --save
 npm run serve
 ```
 
+![](foto1.jpg)
+
+![](foto2.jpg)
+
+![](foto3.jpg)
+
 ### Compiles and minifies for production
 ```
 npm run build
@@ -44,9 +50,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-![](foto1.jpg)
-
-![](foto2.jpg)
-
-![](foto3.jpg)
